@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941204145439",
+    "project_id": "passeio-d2a81",
+    "storage_bucket": "passeio-d2a81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941204145439:android:029df461bce6fbbe5d9c2a",
+        "android_client_info": {
+          "package_name": "com.passeio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941204145439-1882bn4ietu21f04143m9sk7mj9bvnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHwzS3P235GlcgXBko__s6zFfQk-fU-nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941204145439-1882bn4ietu21f04143m9sk7mj9bvnf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
